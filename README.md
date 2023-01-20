@@ -1,4 +1,3 @@
-This project is tested with BrowserStack.
 # Proiect Word
 Ti-a fost vreodata lene sa iti faci singur proiectele .docx pentru scoala?
 Acest script le va face pentru tine!
